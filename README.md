@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mMbashirLahori
+- 👋 Hi, I’m @mMubashirLahori
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate anyone.
